@@ -1,0 +1,30 @@
+.sidebar {
+    /*    flex: 0 0 230px;*/
+    /*    -ms-flex: 0 0 230px;*/
+    height: 85vh;
+    position: fixed;
+    width: 250px;
+    /*    margin: 10px;*/
+}
+
+main {
+    position: relative;
+    margin-left: 300px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #686868;
+}
+
+nav a:hover {
+    text-decoration: none;
+    color: #27334d;
+}
+
+
+/*
+.left-side div {
+    height: 80vh;
+}
+*/
